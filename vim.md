@@ -1,4 +1,6 @@
 # Vim 
+内容主要来自慕课网[玩转Vim 从放弃到爱不释手](://www.imooc.com/learn/1129)  
+Thanks To [PegasusWang](https://www.zhihu.com/people/pegasus-wang/activities)!
 ## insert模式
 进入插入模式  
 a append 在当前光标后插入 A 在行尾插入  
